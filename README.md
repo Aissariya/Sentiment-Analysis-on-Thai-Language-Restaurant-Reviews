@@ -20,3 +20,9 @@ This project develops a sentiment analysis system for Thai-language restaurant r
 ## 📥 Download Fine-Tuned Model
 [Download from Google Drive](https://drive.google.com/file/d/1tYrgasr_h96C-qqLx2RpFJ2b1vwiD_Cr/view?usp=sharing)
 
+## 🌐 Live Demo
+Try the web app here: ## 🌐 Live Demo
+Try the web app here: [sentiment-analysis-gjbh.onrender.com](https://sentiment-analysis-gjbh.onrender.com)
+
+
+
