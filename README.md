@@ -17,8 +17,9 @@ This project develops a sentiment analysis system for Thai-language restaurant r
 - Web app for real-time rating prediction
 - Helps consumers and restaurant owners make informed decisions
 
-## 📥 Download Fine-Tuned Model
+## 📥 Download Fine-Tuned Model and Frontend Code
 [Download from Google Drive](https://drive.google.com/file/d/1tYrgasr_h96C-qqLx2RpFJ2b1vwiD_Cr/view?usp=sharing)
+[Frontend code](https://github.com/iamwarint/sentiment-analysis.git)
 
 ## 🌐 Live Demo
 Try the web app here: ## 🌐 Live Demo
